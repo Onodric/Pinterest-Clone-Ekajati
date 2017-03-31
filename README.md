@@ -1,8 +1,6 @@
-# modern-frameworks-group-pinterest
+# Instructions
 
-# Using your mad Angular skillz
-
-You will be broken into teams and your goals is to reverse engineer the basic functionality of Pinterest and build your own version of it.
+Reverse engineer the basic functionality of Pinterest and build your own version of it using Angular.
 
 ## Priorities
 
